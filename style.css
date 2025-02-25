@@ -1,0 +1,26 @@
+body {
+    background-color: #FFEDFA;
+}
+
+h1 {
+    color: #C30E59;
+    text-align: center;
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+#one img{
+    border: 3px solid white; 
+    box-shadow: 0px 0px 12px 10px #E8BCB9;
+}
+
+#one {
+    margin-left: 427px;
+}
+
+#one img:hover{
+    border: 3px solid #C30E59;
+    box-shadow: 0px 0px 10px #C30E59;
+}
